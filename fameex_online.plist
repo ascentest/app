@@ -17,8 +17,8 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.front.fameex1</string>
-				<key>com.krquant.app</key>
+				<string>com.krquant.app</string>
+				<key>bundle-version</key>
 				<string>3.2.8</string>
 				<key>kind</key>
 				<string>software</string>
